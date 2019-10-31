@@ -574,3 +574,5 @@ acc_df[which.max(acc_df$accuracy),"ntree"]
 #--------------------------------------------------------#
 #                       Then  End                        #
 #------------------------------------------------------- #
+# Thank you for reviewing my code! I appreciate it!
+# Xiaobin Hu
